@@ -15,7 +15,7 @@ To get started,
 - Create a feature branch
 - Make changes as per the requirements
 - Create a PR
-- Wait for Review
+Thank you
 <hr>
 <hr> 
 
